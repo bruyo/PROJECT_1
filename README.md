@@ -1,2 +1,2 @@
 # PROJECT_1
-installation of apache and updating the firewall
+Installation of apache and updating the firewall
